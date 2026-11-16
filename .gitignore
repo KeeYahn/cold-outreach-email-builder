@@ -1,0 +1,19 @@
+# API Credentials
+.env
+.env.*
+!.env.example
+
+# Python Virtual Environments
+.venv/
+venv/
+env/
+
+# Python Generated Files
+_pycache_/
+*.pyc
+.pytest_cache/
+
+# IDE and OS Files
+/vscode/
+.DS_Store
+Thumbs.db
